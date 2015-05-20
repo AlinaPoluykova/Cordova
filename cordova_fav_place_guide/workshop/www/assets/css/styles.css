@@ -1,0 +1,97 @@
+
+ul {
+    clear: both;
+}
+
+.content {
+    position: absolute;
+}
+
+.bar-header-secondary>input {
+    margin-top: 6px;
+    height: 31px;
+}
+.bar input[type="search"] {
+    width: 68% !important;
+}
+button.add_place {
+  width: 35px;
+  border-radius: 22px;
+  height: 34px;
+  border: 1px solid #ddd;
+}
+.table-view {
+    margin: 0 !important;
+    border: none;
+}
+
+.details h1 {
+    padding-top: 16px;
+    font-size: 18px;
+}
+a {
+    color: #000;
+}
+
+.media-object {
+    height: 46px;
+    width: 46px;
+    border-radius: 5px;
+}
+.add-new {
+  margin-left: 35%;
+  width: 35%;
+  margin-top: 4%;
+  margin-bottom: 4%;
+}
+button {
+    border-radius: 5px;
+    border: none;
+    padding: 4%;
+}
+.map-style {
+    width:100%;
+    height: 150px;
+    margin-top: 5%;
+}
+
+input {
+    border-radius: 5px;
+}
+textarea {
+    border-radius: 5px;
+}
+.icon-call {
+    background: transparent url(images/ic_action_phone_outgoing.png);
+    background-repeat: no-repeat;
+}
+
+.icon-sms {
+    background: transparent url(images/ic_action_dialog.png);
+    background-repeat: no-repeat;
+}
+
+.icon-mail {
+    background: transparent url(images/ic_action_mail.png);
+    background-repeat: no-repeat;
+}
+
+.icon-user {
+    background: transparent url(images/ic_action_user.png);
+    background-repeat: no-repeat;
+}
+
+.icon-reports {
+    background: transparent url(images/ic_action_users.png);
+    background-repeat: no-repeat;
+}
+
+.icon-contact {
+    background: transparent url(images/ic_action_add.png);
+    background-repeat: no-repeat;
+}
+
+.icon-location {
+    background: transparent url(images/ic_action_location.png);
+    background-repeat: no-repeat;
+}

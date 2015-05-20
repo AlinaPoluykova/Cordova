@@ -1,0 +1,57 @@
+2015-05-18 18:05:53.454 Workshop[3815:101492] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/alina_poluikova/Library/Developer/CoreSimulator/Devices/1CC75CC9-DC0E-41FA-98F1-BB91B5F448E4/data/Containers/Data/Application/93EDB52A-B13F-4102-B3E2-8DBA5FE50316/Library/Cookies/Cookies.binarycookies
+2015-05-18 18:05:53.640 Workshop[3815:101492] Apache Cordova native platform version 3.8.0 is starting.
+2015-05-18 18:05:53.640 Workshop[3815:101492] Multi-tasking -> Device: YES, App: YES
+2015-05-18 18:05:53.647 Workshop[3815:101492] Unlimited access to network resources
+2015-05-18 18:05:53.649 Workshop[3815:101492] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-05-18 18:05:53.813 Workshop[3815:101492] [CDVTimer][statusbar] 63.987017ms
+2015-05-18 18:05:53.866 Workshop[3815:101492] [CDVTimer][file] 52.762985ms
+2015-05-18 18:05:53.867 Workshop[3815:101492] [CDVTimer][TotalPluginStartup] 117.036998ms
+2015-05-18 18:05:53.903 Workshop[3815:101492] Resetting plugins due to page load.
+2015-05-18 18:05:54.671 Workshop[3815:101492] Finished load of: file:///Users/alina_poluikova/Library/Developer/CoreSimulator/Devices/1CC75CC9-DC0E-41FA-98F1-BB91B5F448E4/data/Containers/Bundle/Application/EEEA2BD9-F489-4523-AD23-3B969B617A42/Workshop.app/www/index.html
+2015-05-18 18:05:59.622 Workshop[3815:101492] ERROR: InvalidKeyOrUnauthorizedURLMapError: https://developers.google.com/maps/documentation/javascript/tutorial#api_key
+2015-05-18 18:06:00.251 Workshop[3815:101492] THREAD WARNING: ['Notification'] took '629.158936' ms. Plugin should use a background thread.
+2015-05-18 18:06:12.312 Workshop[4015:102024] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/alina_poluikova/Library/Developer/CoreSimulator/Devices/1CC75CC9-DC0E-41FA-98F1-BB91B5F448E4/data/Containers/Data/Application/5E2FD9F3-577C-4BC7-A95C-3D962A13F36D/Library/Cookies/Cookies.binarycookies
+2015-05-18 18:06:12.473 Workshop[4015:102024] Apache Cordova native platform version 3.8.0 is starting.
+2015-05-18 18:06:12.474 Workshop[4015:102024] Multi-tasking -> Device: YES, App: YES
+2015-05-18 18:06:12.479 Workshop[4015:102024] Unlimited access to network resources
+2015-05-18 18:06:12.486 Workshop[4015:102024] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-05-18 18:06:12.626 Workshop[4015:102024] [CDVTimer][statusbar] 52.879989ms
+2015-05-18 18:06:12.634 Workshop[4015:102024] [CDVTimer][file] 7.363021ms
+2015-05-18 18:06:12.634 Workshop[4015:102024] [CDVTimer][TotalPluginStartup] 60.505986ms
+2015-05-18 18:06:12.671 Workshop[4015:102024] Resetting plugins due to page load.
+2015-05-18 18:06:13.021 Workshop[4015:102024] Finished load of: file:///Users/alina_poluikova/Library/Developer/CoreSimulator/Devices/1CC75CC9-DC0E-41FA-98F1-BB91B5F448E4/data/Containers/Bundle/Application/EC6A65EE-E9CB-4A1D-8C57-06DFA47E0608/Workshop.app/www/index.html
+2015-05-18 18:06:17.925 Workshop[4015:102024] ERROR: InvalidKeyOrUnauthorizedURLMapError: https://developers.google.com/maps/documentation/javascript/tutorial#api_key
+2015-05-18 18:06:17.941 Workshop[4015:102024] THREAD WARNING: ['Notification'] took '15.558105' ms. Plugin should use a background thread.
+2015-05-18 18:33:24.707 Workshop[4272:108686] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/alina_poluikova/Library/Developer/CoreSimulator/Devices/1CC75CC9-DC0E-41FA-98F1-BB91B5F448E4/data/Containers/Data/Application/FC448BB4-3DC4-49AA-B762-151A9F72E647/Library/Cookies/Cookies.binarycookies
+2015-05-18 18:33:24.935 Workshop[4272:108686] Apache Cordova native platform version 3.8.0 is starting.
+2015-05-18 18:33:24.936 Workshop[4272:108686] Multi-tasking -> Device: YES, App: YES
+2015-05-18 18:33:24.951 Workshop[4272:108686] Unlimited access to network resources
+2015-05-18 18:33:24.959 Workshop[4272:108686] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-05-18 18:33:25.186 Workshop[4272:108686] [CDVTimer][statusbar] 72.984993ms
+2015-05-18 18:33:25.208 Workshop[4272:108686] [CDVTimer][file] 21.926999ms
+2015-05-18 18:33:25.209 Workshop[4272:108686] [CDVTimer][TotalPluginStartup] 95.245004ms
+2015-05-18 18:33:25.245 Workshop[4272:108686] Resetting plugins due to page load.
+2015-05-18 18:33:25.748 Workshop[4272:108686] Finished load of: file:///Users/alina_poluikova/Library/Developer/CoreSimulator/Devices/1CC75CC9-DC0E-41FA-98F1-BB91B5F448E4/data/Containers/Bundle/Application/55B4202E-F469-4EA5-A39A-F0AAD88A6801/Workshop.app/www/index.html
+2015-05-18 18:33:31.082 Workshop[4272:108686] ERROR: InvalidKeyOrUnauthorizedURLMapError: https://developers.google.com/maps/documentation/javascript/tutorial#api_key
+2015-05-18 18:33:31.129 Workshop[4272:108686] THREAD WARNING: ['Notification'] took '46.167236' ms. Plugin should use a background thread.
